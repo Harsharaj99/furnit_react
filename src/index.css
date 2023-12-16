@@ -1,0 +1,60 @@
+@media  (max-width: 600px) {
+  /* Styles for small screens */
+  .container{
+    height: 100%;
+    width: 100%;
+    text-size-adjust: 5px;
+  }
+  .navbar input{
+    width: 100%;
+    height: 100%;
+    
+  }
+  #para{
+    
+    height: 100%;
+    width: 100%;
+    font-size: 0.9em;
+    /* max-width: 100%; */
+    
+    font-size: calc(16px + 0.5vw);
+    margin-left:5px;
+    
+  }
+  #img{
+    width: 100%;
+  }
+  #chairs{
+    width: 350px;
+    height: 100%;
+    font-size: 0.9em;
+    margin-left:-15px;
+    
+
+  }
+}
+@media  (max-width: 900px){
+
+  .container{
+    height: 100%;
+    width: 100%;
+    text-size-adjust: 5px;
+  }
+  .navbar input{
+    width: 100%;
+    height: 100%;
+    
+  }
+  #para{
+    
+    height: 100%;
+    width: 100%;
+    font-size: 0.9em;
+    /* max-width: 100%; */
+    
+    font-size: calc(16px + 0.5vw);
+    margin-left:5px;
+    
+  }
+} 
+
